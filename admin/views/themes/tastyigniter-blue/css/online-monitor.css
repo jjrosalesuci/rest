@@ -1,0 +1,74 @@
+.online-monitor{
+    
+}
+
+
+.online-monitor .panel .table-responsive {
+     padding: 0px !important;
+}
+
+.online-monitor .actions-incons{
+    border: 1px solid;
+    padding: 10px;
+    border-radius: 2px;
+    border-color: #74aad8;
+    color: #337AB7;
+}
+
+.online-monitor .options{
+  font-size: 11px;
+}
+.online-monitor .comments{
+  font-size: 11px;
+}
+
+.online-monitor .table-bordered>tbody>tr>td, .online-monitor .table-bordered>tbody>tr>th, .online-monitor .table-bordered>tfoot>tr>td, .online-monitor .table-bordered>tfoot>tr>th, .online-monitor .table-bordered>thead>tr>td, .online-monitor .table-bordered>thead>tr>th {
+   border: none!important;
+}
+
+.ui-jqgrid {
+   border: none!important;
+}
+.ui-jqgrid tr.jqgrow {
+    border-top: 1px solid #ecf0f5;
+}
+
+.online-monitor .table-bordered {
+    border: none!important;
+}
+
+.online-monitor .table-bordered .ui-state-hover{
+    
+}
+
+.online-monitor .notify{
+    display: inline;
+    color: red;
+    margin-left: 10px;
+}
+
+.online-monitor .badge{
+    background-color: red!important;
+}
+
+.online-monitor .danger{
+      background-color: linen;
+}
+
+.ui-jqdialog {
+    left: 40%!important;
+    padding: 6px;
+    width: 343px!important;
+}
+
+.ui-jqdialog-content, .ui-jqdialog .ui-jqdialog-content {
+    padding-top: 19px!important;
+}
+
+.online-monitor .editcell{
+    background-image: url("../images/edit-icon.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position-x: 49px;
+    background-size: 16px;
+}

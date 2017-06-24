@@ -1,0 +1,93 @@
+@media (min-width: 768px){
+    .register-restaurant-modal{
+        width: 950px !important;
+    }
+}
+.register-restaurant {
+     font-family:Lato, Arial, sans-serif;
+}
+
+.register-restaurant .tab-pane-title{
+    border-bottom: 1px solid;
+    margin-bottom: 10px;
+    border-color: #dddddd; 
+    padding-bottom: 4px;
+    margin-top: 0px;
+    font-size: 15px;
+}
+.register-restaurant .modal-body {
+    padding-bottom: 2px;
+    padding-top: 5px;
+}
+
+.register-restaurant .form-horizontal .control-label {
+    text-align: left !important;
+    font-weight: normal;
+    margin-bottom: 5px;
+    font-size: 12px;
+}
+
+.register-restaurant .form-horizontal .info{
+    font-size: 11px;
+    font-style: oblique;
+    margin-top: 3px;
+}
+
+.register-restaurant  .form-horizontal .form-group.lesss-margin-botton{
+    margin-bottom: 6px;
+}
+
+.register-restaurant-span-error{
+    color: red !important;
+}
+
+.country-text{
+    margin-top: 7px!important;
+    font-size: 12px;
+}
+
+.confirm-title{
+    font-style: oblique;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.confirm .restaurant-title{
+    font-size: 16px;
+    margin: 0 0 5px;
+}
+
+.confirm .address span{
+   font-size: 12px;
+}
+
+.register-restaurant .help-block{
+    box-sizing:border-box;
+    color:rgb(115, 115, 115);
+    cursor:default;
+    display:block;
+    font-family:Lato, Arial, sans-serif;
+    font-size:11px;
+    font-style:italic;
+    font-weight:normal;
+    margin-top:5px;
+    text-align:left;
+}
+
+.register-restaurant .map{
+    height:200px; 
+    overflow: visible;
+    max-width: none!important;
+}
+
+.confirm-message{
+    font-size: 12px;
+    text-align: left;
+     margin:0px 0 6px 0;
+}
+
+.drang-and-drop{
+   font-style: oblique;
+   font-size: 11px;
+   margin:4px 0 4px 0;
+}
